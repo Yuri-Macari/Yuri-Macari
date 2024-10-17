@@ -6,17 +6,22 @@
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=css3&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-0D1117?style=for-the-badge&logo=adobe-photoshop&labelColor=0D1117)&nbsp;
-![Adobe Lightroom](https://img.shields.io/badge/-Lightroom-0D1117?style=for-the-badge&logo=adobe-lightroom&labelColor=0D1117)&nbsp;
-![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-0D1117?style=for-the-badge&logo=adobe-illustrator&labelColor=0D1117)&nbsp;
-![Adobe Premiere](https://img.shields.io/badge/-Premiere-0D1117?style=for-the-badge&logo=adobe-premiere-pro&labelColor=0D1117)&nbsp;
+![Gimp](https://img.shields.io/badge/-Gimp-0D1117?style=for-the-badge&logo=gimp&labelColor=0D1117)&nbsp;
+![Darktable](https://img.shields.io/badge/-Darktable-0D1117?style=for-the-badge&logo=darktable&labelColor=0D1117)&nbsp;
+![Inkscape](https://img.shields.io/badge/-Inkscape-0D1117?style=for-the-badge&logo=inkscape&labelColor=0D1117)&nbsp;
+![Capcut](https://img.shields.io/badge/-Capcut-0D1117?style=for-the-badge&logo=capcut&labelColor=0D1117)&nbsp;
+![Davinci Resolve](https://img.shields.io/badge/-Davinci%20Resolve-0D1117?style=for-the-badge&logo=davinci-resolve&labelColor=0D1117)&nbsp;
 
 ### Tools I use:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-0D1117?style=for-the-badge&logo=intellij-idea&labelColor=0D1117)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-0D1117?style=for-the-badge&logo=eclipse-ide&labelColor=0D1117)&nbsp;
 
 ### Currently Learning:
-![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=cplusplus&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=java&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FFA500&height=120&section=footer"/>
+
+
